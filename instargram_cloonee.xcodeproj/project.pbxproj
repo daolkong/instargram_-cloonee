@@ -1,0 +1,424 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3304CF2D299A818C00ABFAF2 /*  MypageTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3304CF2C299A818C00ABFAF2 /*  MypageTabView.swift */; };
+		3304CF2F299A847500ABFAF2 /*  MypageTabList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3304CF2E299A847500ABFAF2 /*  MypageTabList.swift */; };
+		3304CF31299B439B00ABFAF2 /* ShopTabList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3304CF30299B439A00ABFAF2 /* ShopTabList.swift */; };
+		3359E13F2999088F00EE4B41 /* HomeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3359E13E2999088F00EE4B41 /* HomeListView.swift */; };
+		3359E141299908AE00EE4B41 /* HomeListCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3359E140299908AE00EE4B41 /* HomeListCard.swift */; };
+		335B1C6929967C7C00194ED4 /* pfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335B1C6829967C7C00194ED4 /* pfo.swift */; };
+		33764D3E2A12C15200556741 /* Start.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33764D3D2A12C15200556741 /* Start.swift */; };
+		33764D402A12C23000556741 /* login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33764D3F2A12C23000556741 /* login.swift */; };
+		33B2074029894C81000A4E3C /* instargram_clooneeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B2073F29894C81000A4E3C /* instargram_clooneeApp.swift */; };
+		33B2074229894C81000A4E3C /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B2074129894C81000A4E3C /* MainView.swift */; };
+		33B2074429894C81000A4E3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33B2074329894C81000A4E3C /* Assets.xcassets */; };
+		33B2074729894C81000A4E3C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33B2074629894C81000A4E3C /* Preview Assets.xcassets */; };
+		33B6DC7F299A7D1600736B33 /* HomeTabList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B6DC7E299A7D1600736B33 /* HomeTabList.swift */; };
+		33C8976029894D6500B7414D /* HomeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C8975F29894D6500B7414D /* HomeTabView.swift */; };
+		33C8976229894D8F00B7414D /* SearchTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C8976129894D8F00B7414D /* SearchTabView.swift */; };
+		33C8976429894DA000B7414D /* ReelsTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C8976329894DA000B7414D /* ReelsTabView.swift */; };
+		33C8976629894DAA00B7414D /* ShopTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C8976529894DAA00B7414D /* ShopTabView.swift */; };
+		33C8976B29894E6700B7414D /* billabong.otf in Resources */ = {isa = PBXBuildFile; fileRef = 33C8976A29894E6700B7414D /* billabong.otf */; };
+		33D519AA2990098A000B5943 /* coffeeimages in Resources */ = {isa = PBXBuildFile; fileRef = 33D519A92990098A000B5943 /* coffeeimages */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3304CF2C299A818C00ABFAF2 /*  MypageTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " MypageTabView.swift"; sourceTree = "<group>"; };
+		3304CF2E299A847500ABFAF2 /*  MypageTabList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " MypageTabList.swift"; sourceTree = "<group>"; };
+		3304CF30299B439A00ABFAF2 /* ShopTabList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopTabList.swift; sourceTree = "<group>"; };
+		3359E13E2999088F00EE4B41 /* HomeListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeListView.swift; sourceTree = "<group>"; };
+		3359E140299908AE00EE4B41 /* HomeListCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeListCard.swift; sourceTree = "<group>"; };
+		335B1C6829967C7C00194ED4 /* pfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pfo.swift; sourceTree = "<group>"; };
+		33764D3D2A12C15200556741 /* Start.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Start.swift; sourceTree = "<group>"; };
+		33764D3F2A12C23000556741 /* login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = login.swift; sourceTree = "<group>"; };
+		33B2073C29894C81000A4E3C /* instargram_cloonee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = instargram_cloonee.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		33B2073F29894C81000A4E3C /* instargram_clooneeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = instargram_clooneeApp.swift; sourceTree = "<group>"; };
+		33B2074129894C81000A4E3C /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		33B2074329894C81000A4E3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		33B2074629894C81000A4E3C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		33B6DC7E299A7D1600736B33 /* HomeTabList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabList.swift; sourceTree = "<group>"; };
+		33C8975F29894D6500B7414D /* HomeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabView.swift; sourceTree = "<group>"; };
+		33C8976129894D8F00B7414D /* SearchTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTabView.swift; sourceTree = "<group>"; };
+		33C8976329894DA000B7414D /* ReelsTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReelsTabView.swift; sourceTree = "<group>"; };
+		33C8976529894DAA00B7414D /* ShopTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopTabView.swift; sourceTree = "<group>"; };
+		33C8976A29894E6700B7414D /* billabong.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = billabong.otf; sourceTree = "<group>"; };
+		33C8976C29894F6700B7414D /* instargram-cloonee-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "instargram-cloonee-Info.plist"; sourceTree = SOURCE_ROOT; };
+		33D519A92990098A000B5943 /* coffeeimages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = coffeeimages; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		33B2073929894C80000A4E3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		33764D3C2A12C0E200556741 /* todak to dak */ = {
+			isa = PBXGroup;
+			children = (
+				33764D3D2A12C15200556741 /* Start.swift */,
+				33764D3F2A12C23000556741 /* login.swift */,
+			);
+			path = "todak to dak";
+			sourceTree = "<group>";
+		};
+		33B2073329894C80000A4E3C = {
+			isa = PBXGroup;
+			children = (
+				33C8976929894E5300B7414D /* Font */,
+				33B2073E29894C81000A4E3C /* instargram_cloonee */,
+				33B2073D29894C81000A4E3C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		33B2073D29894C81000A4E3C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				33B2073C29894C81000A4E3C /* instargram_cloonee.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		33B2073E29894C81000A4E3C /* instargram_cloonee */ = {
+			isa = PBXGroup;
+			children = (
+				33C8976C29894F6700B7414D /* instargram-cloonee-Info.plist */,
+				33B2073F29894C81000A4E3C /* instargram_clooneeApp.swift */,
+				33B2074129894C81000A4E3C /* MainView.swift */,
+				33C8975F29894D6500B7414D /* HomeTabView.swift */,
+				33B6DC7E299A7D1600736B33 /* HomeTabList.swift */,
+				33C8976129894D8F00B7414D /* SearchTabView.swift */,
+				33C8976329894DA000B7414D /* ReelsTabView.swift */,
+				33C8976529894DAA00B7414D /* ShopTabView.swift */,
+				3304CF30299B439A00ABFAF2 /* ShopTabList.swift */,
+				3304CF2C299A818C00ABFAF2 /*  MypageTabView.swift */,
+				3304CF2E299A847500ABFAF2 /*  MypageTabList.swift */,
+				3359E13E2999088F00EE4B41 /* HomeListView.swift */,
+				3359E140299908AE00EE4B41 /* HomeListCard.swift */,
+				335B1C6829967C7C00194ED4 /* pfo.swift */,
+				33764D3C2A12C0E200556741 /* todak to dak */,
+				33B2074329894C81000A4E3C /* Assets.xcassets */,
+				33B2074529894C81000A4E3C /* Preview Content */,
+			);
+			path = instargram_cloonee;
+			sourceTree = "<group>";
+		};
+		33B2074529894C81000A4E3C /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				33D519A92990098A000B5943 /* coffeeimages */,
+				33B2074629894C81000A4E3C /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		33C8976929894E5300B7414D /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				33C8976A29894E6700B7414D /* billabong.otf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		33B2073B29894C80000A4E3C /* instargram_cloonee */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 33B2074A29894C81000A4E3C /* Build configuration list for PBXNativeTarget "instargram_cloonee" */;
+			buildPhases = (
+				33B2073829894C80000A4E3C /* Sources */,
+				33B2073929894C80000A4E3C /* Frameworks */,
+				33B2073A29894C80000A4E3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = instargram_cloonee;
+			productName = instargram_cloonee;
+			productReference = 33B2073C29894C81000A4E3C /* instargram_cloonee.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		33B2073429894C80000A4E3C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1410;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					33B2073B29894C80000A4E3C = {
+						CreatedOnToolsVersion = 14.1;
+					};
+				};
+			};
+			buildConfigurationList = 33B2073729894C80000A4E3C /* Build configuration list for PBXProject "instargram_cloonee" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 33B2073329894C80000A4E3C;
+			productRefGroup = 33B2073D29894C81000A4E3C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				33B2073B29894C80000A4E3C /* instargram_cloonee */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		33B2073A29894C80000A4E3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				33B2074729894C81000A4E3C /* Preview Assets.xcassets in Resources */,
+				33B2074429894C81000A4E3C /* Assets.xcassets in Resources */,
+				33D519AA2990098A000B5943 /* coffeeimages in Resources */,
+				33C8976B29894E6700B7414D /* billabong.otf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		33B2073829894C80000A4E3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				33C8976029894D6500B7414D /* HomeTabView.swift in Sources */,
+				33764D402A12C23000556741 /* login.swift in Sources */,
+				33B2074229894C81000A4E3C /* MainView.swift in Sources */,
+				33764D3E2A12C15200556741 /* Start.swift in Sources */,
+				3304CF2D299A818C00ABFAF2 /*  MypageTabView.swift in Sources */,
+				33C8976629894DAA00B7414D /* ShopTabView.swift in Sources */,
+				33B6DC7F299A7D1600736B33 /* HomeTabList.swift in Sources */,
+				33C8976229894D8F00B7414D /* SearchTabView.swift in Sources */,
+				3304CF31299B439B00ABFAF2 /* ShopTabList.swift in Sources */,
+				33C8976429894DA000B7414D /* ReelsTabView.swift in Sources */,
+				3359E141299908AE00EE4B41 /* HomeListCard.swift in Sources */,
+				335B1C6929967C7C00194ED4 /* pfo.swift in Sources */,
+				3304CF2F299A847500ABFAF2 /*  MypageTabList.swift in Sources */,
+				33B2074029894C81000A4E3C /* instargram_clooneeApp.swift in Sources */,
+				3359E13F2999088F00EE4B41 /* HomeListView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		33B2074829894C81000A4E3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		33B2074929894C81000A4E3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		33B2074B29894C81000A4E3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"instargram_cloonee/Preview Content\"";
+				DEVELOPMENT_TEAM = 97PH923V3Q;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "instargram-cloonee-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lens..instargram-cloonee";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		33B2074C29894C81000A4E3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"instargram_cloonee/Preview Content\"";
+				DEVELOPMENT_TEAM = 97PH923V3Q;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "instargram-cloonee-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lens..instargram-cloonee";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		33B2073729894C80000A4E3C /* Build configuration list for PBXProject "instargram_cloonee" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				33B2074829894C81000A4E3C /* Debug */,
+				33B2074929894C81000A4E3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		33B2074A29894C81000A4E3C /* Build configuration list for PBXNativeTarget "instargram_cloonee" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				33B2074B29894C81000A4E3C /* Debug */,
+				33B2074C29894C81000A4E3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 33B2073429894C80000A4E3C /* Project object */;
+}
